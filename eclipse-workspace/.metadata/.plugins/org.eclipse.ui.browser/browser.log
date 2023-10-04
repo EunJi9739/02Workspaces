@@ -1,0 +1,14 @@
+
+10월 04, 2023 11:29:57.475 NEW SESSION
+10월 04, 2023 11:29:57.475 [5692:5300:1004/112957.474:ERROR:device_event_log_impl.cc(225)] [11:29:57.474] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+10월 04, 2023 11:29:57.803 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 04, 2023 11:36:42.696 [5692:5580:1004/113642.696:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 04, 2023 11:36:42.700 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 04, 2023 11:36:42.700 ERROR: Failed parsing Certificate
+10월 04, 2023 11:36:42.700 
+10월 04, 2023 11:36:42.734 [5692:5580:1004/113642.734:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.biew.co.kr failed:
+10월 04, 2023 11:36:42.735 ----- Certificate i=0 (CN=www.biew.co.kr) -----
+10월 04, 2023 11:36:42.735 ERROR: Time is after notAfter
+10월 04, 2023 11:36:42.735 
+10월 04, 2023 11:36:42.735 
+10월 04, 2023 11:37:17.896 [5692:5300:1004/113717.896:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost

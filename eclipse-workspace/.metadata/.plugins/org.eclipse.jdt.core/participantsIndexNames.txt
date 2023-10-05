@@ -9,6 +9,8 @@ C:\02Workspaces\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\js
 \MustHaveJSP_origin\src
 C:\02Workspaces\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3175762183.index
 \MustHaveJSP_origin\src
+C:\02Workspaces\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\836917167.index
+\MustHaveJSP\src
 C:\02Workspaces\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\753213369.index
 \MustHaveJSP_origin\src
 C:\02Workspaces\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3562791040.index
